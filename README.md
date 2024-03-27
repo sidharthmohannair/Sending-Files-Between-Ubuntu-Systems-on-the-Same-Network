@@ -1,4 +1,4 @@
-# Sending-Files-Between-Ubuntu-Systems-on-the-Same-Network
+# Sending Files Between Ubuntu Systems on the Same Network
 In this tutorial, you will learn how to securely transfer files between Ubuntu systems that are on the same network. We will cover two commonly used methods: SCP (Secure Copy Protocol) and SFTP (SSH File Transfer Protocol).
 
 ## Prerequisites
